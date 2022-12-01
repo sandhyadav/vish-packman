@@ -1,0 +1,20 @@
+
+.text {
+    color: yellow;
+    background-color: black;
+    text-align: center;
+    font-family: cursive;
+    text-decoration: underline;
+   
+}
+
+body{
+    background-color:darkred;
+    display: flex;
+    justify-content: center;
+}
+
+#gameCanvas {
+   background-color: blue;
+   
+  }
